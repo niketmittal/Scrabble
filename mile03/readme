@@ -1,0 +1,44 @@
+This file corresponds to the Milestone 3 of the DSA Project
+This project belongs to Group 13.
+Members:-
+1. SHREYASH YADAV: 19UEC135
+2. NIKET MITTAL: 19UCS090
+3. ADITYA BADONI: 19UCC139
+4. VINAYAK SINGH: 19UCS165
+5. HARSH KUMAR: 19UCS185
+6. RAJAN JAIN: 19UME004
+7. NISHANT KATARA: 19UCC100
+FILE SUBMISSION DATE: 10/04/2020
+
+Test Cases:-
+1) Bag of Letters = a*def*venstr*twe*
+   Word = OVERSWEETENED 
+   Score = 3281
+   Time Taken = 56.00 seconds
+
+2) Bag of Letters = blzx*nk*et*uc
+   Word = UNEXCITABLE
+   Score = 2337
+   Time Taken = 22.00 seconds
+
+3) Bag of Letters = qw*vbcl**brmv
+   Word = MICAWBER
+   Score = 1092
+   Time Taken = 14.00 seconds
+
+4) Bag of Letters = navdq*ruto*b*qw
+   Word = BANQUETED
+   Score = 1995
+   Time Taken = 10.00 seconds
+
+5) Bag of Letters = co*gvd**tq*b
+   Word = COEQUATED
+   Score = 1479
+   Time Taken = 45.00 seconds
+
+REMARKS:-
+
+1) Runtime of the code solely depends on the performance of user's device.
+2) The code crashes in case of more than 4 *(stars) are given in the bag of letters.
+3) Inputs can be given in both upper and lower cases with or without spaces.
+

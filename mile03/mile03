@@ -1,0 +1,4 @@
+#!/bin/bash
+gcc *.c -lm -o mile03.o
+./mile03.o
+
